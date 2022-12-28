@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - UstKenar
+  - YanKenar
+  - Rakip
+  - beyaz
+  - siyah
+  - Table
+  - inputf
+  - nick
+  - rakipnick
+  - sP1
+  - sP2
+  - sP3
+  - sP4
+  - sP5
+  - sP6
+  - sP7
+  - sP8
+  - bP1
+  - bP2
+  - bP3
+  - bP4
+  - bP5
+  - bP6
+  - bP7
+  - bP8
+  - sK1
+  - sK2
+  - bK1
+  - bK2
+  - bA1
+  - bA2
+  - sA1
+  - sA2
+  - bF1
+  - bF2
+  - sF1
+  - sF2
+  - bV
+  - sV
+  - bS
+  - sS
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - panel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
